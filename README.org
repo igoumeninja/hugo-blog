@@ -1,0 +1,7 @@
+# igoumeninja.github.io
+hugo
+
+- https://github.com/whipperstacker/blog/blob/master/content/post/deploying-a-hugo-site-to-github-pages.md
+- https://gohugo.io/getting-started/quick-start/
+- https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/
+
